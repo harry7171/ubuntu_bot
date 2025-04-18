@@ -84,3 +84,5 @@ docs/en/stacks/utilities/*
 /templates/
 static/
 build/
+
+app.env
