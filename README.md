@@ -79,11 +79,10 @@ A chatbot system built to interact with and answer questions based on files prov
 ---
 
 ## 📸 Screenshots
-
-images/demo_fastapi1.png
-images/demo_fastapi2.png
-images/demo_qna1.png
-images/demo_qna2.png
-images/demo_qna3.png
+![Alt text](images/demo_fastapi1.png)
+![Alt text](images/demo_fastapi2.png)
+![Alt text](images/demo_qna1.png)
+![Alt text](images/demo_qna2.png)
+![Alt text](images/demo_qna3.png)
 
 
