@@ -93,4 +93,3 @@ releases/*
 stacks/*
 
 *.md
-.env
